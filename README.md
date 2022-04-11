@@ -14,7 +14,7 @@
  How to Test the assignment.
  
  ****Docker ************
- Go to application directory and run docker build
+Go to application directory and run docker build
  
  **Infrastructure as Code**
  1) configure aws profile using aws access and secret key.
